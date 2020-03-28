@@ -1,0 +1,76 @@
+
+
+h1{
+	
+	color:black;
+	font-family:Helvetica;
+	font-size:36px;
+  }
+  
+#nav{
+	background-color:orange;
+	height:40px;
+	font-size:25px;
+	font-weight:bold;
+	font:Georgia;
+	
+    }
+#nav ul{
+	padding:0;
+	margin:0;
+	list-style-type:none;
+	text-align:center;
+       }
+#nav li{
+	display:inline;
+	vertical-align:middle;
+	padding:20px;
+	
+}
+#nav a{
+	padding:10px 10px 10px 10px;
+	color:white;
+	text-decoration:none;
+	
+}
+	
+
+p{
+	color:black;
+	font:Verdana;
+	font-size:20px;
+}
+
+#about{
+	background:#d3d3d3;
+}
+
+b{
+	font-family:Latin;
+	font-size:20px;
+	text-decoration:underline;
+}
+
+small{
+	font-size:15px;
+	background:#e5e4d7;
+}
+	
+#myskill{
+	background-color:#ffcf79;
+}
+
+#contact{
+	background:#2C8F77;
+}
+p{
+	font-family:Rockwell;
+	font-size:20px;
+}
+
+	
+
+	
+       
+	   
+	
